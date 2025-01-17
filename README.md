@@ -1,2 +1,2 @@
 # humanitydataanalysis
-혜인이랑 프로젝트
+인문데이터분석_협업프로젝트
